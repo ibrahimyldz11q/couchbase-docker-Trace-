@@ -1,0 +1,4 @@
+Flask==2.0.1
+couchbase==3.2.2
+jaeger-client==4.7.2
+flask-opentracing==0.4.0
