@@ -1,1 +1,0 @@
-worker trace on docker
